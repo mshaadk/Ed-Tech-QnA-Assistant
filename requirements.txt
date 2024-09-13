@@ -1,0 +1,6 @@
+langchain_community
+python-dotenv
+streamlit
+tiktoken
+faiss-cpu
+protobuf
